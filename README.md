@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying at North South University
-- 👯 I’m looking to collaborate on [https://github.com/NSU-CSE-chapters](https://github.com/NSU-CSE-chapters)
+- 👯 I’m looking to collaborate on [https://github.com/RippleBee](https://github.com/RippleBee)
 - 🌱 I’m currently learning Flutter/dart & C++
 - 💬 Ask me about any Programming/coding/tech related stuff
 - 📫 How to reach me: <p align="center">
