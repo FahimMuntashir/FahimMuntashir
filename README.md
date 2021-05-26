@@ -8,7 +8,7 @@
 - 📫 How to reach me: <p align="center">
 <a href="https://twitter.com/fahim_muntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fahim_muntashir" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="f12r" height="30" width="30" /></a>
-<a href="https://fb.com/fahimuntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahimuntashir" height="30" width="30" /></a>
+<a href="https://fb.com/f12r.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahimuntashir" height="30" width="30" /></a>
 <a href="https://instagram.com/fahim_muntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fahim_muntashir" height="30" width="30" /></a>
 <a href="https://dribbble.com/f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="f12r" height="30" width="30" /></a>
 <a href="https://medium.com/@f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="f12r" height="30" width="30" /></a> 
