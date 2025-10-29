@@ -1,32 +1,116 @@
-### Hola, I'm Fahim Muntashir ! 👋
+# Hi, I'm Fahim!
+### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
 
-
-- 🔭 I’m currently studying at North South University
-- 👯 I’m looking to collaborate on [https://github.com/RippleBee](https://github.com/RippleBee)
-- 🌱 I’m currently learning Flutter/dart & C++
-- 💬 Ask me about any Programming/coding/tech related stuff
-- 📫 How to reach me: <p align="center">
-<a href="https://twitter.com/fahim_muntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fahim_muntashir" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="f12r" height="30" width="30" /></a>
-<a href="https://fb.com/f12r.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahimuntashir" height="30" width="30" /></a>
-<a href="https://instagram.com/fahim_muntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fahim_muntashir" height="30" width="30" /></a>
-<a href="https://dribbble.com/f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="f12r" height="30" width="30" /></a>
-<a href="https://medium.com/@f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="f12r" height="30" width="30" /></a> 
-  <a href="https://codepen.io/fahimpen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fahimpen" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13347335" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13347335" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://fahimmuntashir.com/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/> Personal Website</a> •
+  <a href="https://www.linkedin.com/in/f12r/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/> LinkedIn</a> •
+  <a href="mailto:me@fahimmuntashir.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/> Email</a>
 </p>
+
+
+
+🎓 **Computer Science Graduate** from North South University, Dhaka  
+💼 **Data Analyst** experienced in multinational and remote teams  
+🧠 Skilled in **SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Power BI, and Excel**  
+🔍 Passionate about **data visualization, business insights, and product analytics**  
+💡 Experienced with **ETL pipelines, risk dashboards, and data-driven reporting**  
+🌱 Exploring **advanced analytics, AI for automation, and product strategy**  
+💬 Ask me about anything related to **Data, Analytics, or Product Tech**
+- 📫 Reach me:  
+
+<p align="center">
+<a href="https://twitter.com/fahim_muntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://fb.com/f12r.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
+<a href="https://instagram.com/fahim_muntashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>
+<a href="https://medium.com/@f12r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="30" /></a> 
+<a href="https://codepen.io/fahimpen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13347335" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
+</p>
+
+
+<!--
 <hr>
-<p align="left"> <a href="https://twitter.com/fahim_muntashir" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_muntashir?logo=twitter&style=for-the-badge" alt="fahim_muntashir" /></a> </p>
+
+<p align="left">
+  <a href="https://twitter.com/fahim_muntashir" target="blank">
+    <img src="https://img.shields.io/twitter/follow/fahim_muntashir?logo=twitter&style=for-the-badge" alt="fahim_muntashir" />
+  </a>
+</p>
+-->
 
 
+---
 
+### 🧩 Experience
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="20" height="20"/> </a> </p>
+- **Kontoor Brands Inc. — Social Compliance Risk Management (Summer Intern)**  
+  Analyzed audit data from 500+ suppliers, created Power BI dashboards and risk heatmaps for 37 countries, and automated reporting pipelines using Python and SQL.  
 
+- **DIAL: Design Inclusion & Access Lab — Research Assistant**  
+  Worked on IoT-based flash flood prediction systems and ML-based sentiment analysis in Bangla restaurant reviews.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimMuntashir)](https://github.com/FahimMuntashir/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimmuntashir" alt="fahimmuntashir" /> </p>
+- **AppHostBD — Application Developer (Part-time)**  
+  Developed and maintained Flutter apps, managed client hosting databases, and improved UI/UX for production apps.  
 
+---
 
+### 🚀 Featured Projects
 
+- 🧭 [**Compliance Risk Analytics Dashboard**](https://github.com/FahimMuntashir/compliance-risk-analytics-dashboard) — Power BI + Python-based dashboard analyzing 11K+ global audit records.  
+- 📦 [**Gudam Guru**](http://gudamguru.xyz/) — Inventory management app for small businesses using Flutter + MySQL.  
+- 🌱 [**Recycle Hub BD**](https://github.com/FahimMuntashir/recycle_hub_bd_v2) — AI-powered recycling app using TensorFlow Lite & Supabase.  
+- 🌊 [**Flash Flood Prediction System**](https://github.com/FahimMuntashir/flash-flood-arduino-w3) — IoT system with Arduino sensors for early flood alerts.  
 
-<h3 style="text-align:center;">Show some ♥ by starring some of the repositories! </h3>
+---
+
+### ⚙️ Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="30" height="30"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="30" height="30"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="30" height="30"/></a>
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🥈 **1st Runner-Up — NASA Space Apps Challenge 2022**  
+- 🏅 **Finalist — Blockchain Olympiad Bangladesh 2023**  
+- 🤖 **6th Place — KIBO Robot Programming Challenge 2023**  
+
+---
+
+### 🪪 Certifications  
+
+<p align="left">
+  <a href="https://certs.fahimmuntashir.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Certifications-Click%20Here-blue?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+- **Atlassian Agile Project Management** — LinkedIn Learning (2025)  
+- **Complete Data Analyst Bootcamp** — Udemy *(In Progress, 60%)*  
+- **Power BI & Excel for Data Analytics** — LinkedIn Learning  
+- **Python for Data Science and Machine Learning Bootcamp** — Udemy  
+- *(More at [certs.fahimmuntashir.com](https://certs.fahimmuntashir.com/))*
+
+---
+
+### 📊 GitHub Stats
+
+![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimmuntashir&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimMuntashir&layout=compact&theme=tokyonight)  
+<p align="left"><img src="https://komarev.com/ghpvc/?username=fahimmuntashir" alt="fahimmuntashir" /></p>
+
+---
+
+<h3 align="center">Show some ♥ by starring a few repositories!</h3>
