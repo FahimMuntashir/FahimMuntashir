@@ -1,4 +1,6 @@
 # Hi, I'm Fahim!
+### Product Manager • Data Analyst • Application Developer
+
 ### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
 
 <p align="center">
@@ -8,7 +10,7 @@
 </p>
 
 
-
+💼 **Product Manager at Innospace Infotech Ltd.**  
 🎓 **Computer Science Graduate** from North South University, Dhaka  
 💼 **Data Analyst** experienced in multinational and remote teams  
 🧠 Skilled in **SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Power BI, and Excel**  
@@ -42,7 +44,26 @@
 
 ---
 
+### 🧪 What I’m Working On — *brritto* (EdTech Platform)
+
+Currently building **leaderboard, gamification systems, scoring logic, and analytics pipelines** for **brritto**, a smart learning platform that helps students master lessons through:
+
+- 📚 **Customizable & live tests**  
+- 🎮 **Gamified learning journeys**  
+- 🏆 **Progress tracking, badges, levels, milestones**  
+- 📈 **User analytics for better decision-making**
+
+> brritto: *Where learning comes full circle.*  
+At Innospace, I closely work with engineering, UI/UX, QA, EdTech and Business teams to design features that improve retention, engagement, and learning outcomes.
+
+---
+
+
 ### 🧩 Experience
+
+- **Product Manager — Innospace Infotech Ltd.**  
+  Leading product features for *brritto*, including gamification systems, leaderboard logic, user behavior insights, analytics dashboards, and roadmap planning.
+
 
 - **Kontoor Brands Inc. — Social Compliance Risk Management (Summer Intern)**  
   Analyzed audit data from 500+ suppliers, created Power BI dashboards and risk heatmaps for 37 countries, and automated reporting pipelines using Python and SQL.  
@@ -105,10 +126,41 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimmuntashir&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimMuntashir&layout=compact&theme=tokyonight)  
+
+<details>
+<summary><b>📊 View Full GitHub Analytics</b></summary>
+
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <!-- Profile Details -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimmuntashir&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <!-- Most Commit Language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimmuntashir&theme=tokyonight" height="180" />
+  
+  <!-- Repos per Language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimmuntashir&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <!-- Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimmuntashir&theme=tokyonight" height="180" />
+
+  <!-- Productive Time -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fahimmuntashir&theme=tokyonight&utcOffset=6" height="180" />
+</p>
+
+---
+
+</details>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fahimmuntashir" alt="fahimmuntashir" /></p>
 
 ---
