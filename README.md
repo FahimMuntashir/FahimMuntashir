@@ -20,7 +20,15 @@
 💬 Ask me about anything related to **Data, Analytics, or Product Tech**  
 📫 **Reach me:**
 
-<p align="center"><a href="https://twitter.com/fahim_muntashir" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/f12r" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://fb.com/f12r.me" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://instagram.com/fahim_muntashir" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://medium.com/@f12r" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://codepen.io/fahimpen" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/13347335" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a></p>
+<p align="center">
+  <a href="https://twitter.com/fahim_muntashir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/f12r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://fb.com/f12r.me"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/fahim_muntashir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://medium.com/@f12r"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://codepen.io/fahimpen"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"/></a>
+  <a href="https://stackoverflow.com/users/13347335"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+</p>
 
 
 <!--
@@ -79,7 +87,18 @@ At Innospace, I closely work with engineering, UI/UX, QA, EdTech and Business te
 
 ### ⚙️ Tech Stack
 
-<p align="left"><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="30" height="30"/></a>&nbsp;&nbsp;<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="30" height="30"/></a></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+</p>
 
 ---
 
